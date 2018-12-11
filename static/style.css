@@ -1,0 +1,98 @@
+.header{
+	background-color: black;
+	width: 100%;
+	position: fixed;
+	height: 50px;
+}
+.header span {
+	color: white;
+	margin: 10px;
+	display: block;
+	text-align: center;
+	font-size: 20px;
+	z-index: 9999;
+}
+.room{
+	height: 79vh;
+	background-color: #eeeeee;
+	width: 100%;
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+	overflow-y: scroll;
+	/*margin-top: 48px;*/
+}
+
+.foot{
+	/*height: 250px;*/
+	background-color: white;
+	position: relative;
+	width: 100%;
+	padding: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.inputbox {
+	width: 75%;
+	display: inline-block;
+}
+.btninput {
+	display: inline-block;
+	position: relative;
+	margin: 10px;
+	vertical-align: middle;
+}
+
+.msg {
+	padding: 10px;
+	width: auto;
+	color: white;
+	/*margin-top: 20px; */
+	display: block;
+	/*min-height: 50px;*/
+	overflow: auto;
+	position: relative;
+}
+.me {
+	background-color: #4caf50;
+	padding: 15px;
+	border-radius: 10px;
+	float: right;
+	position: relative;
+}
+.you{
+	background-color: grey;
+	padding: 15px;
+	border-radius: 10px;
+	float: left;
+}
+.arrow-me{
+	border:solid 10px transparent;
+	border-right-color:#000;
+	position:absolute;
+	margin:-50px 0 0 -20px;
+}
+.chattime-me{
+	color: black;
+	float: right;
+	margin-right: 10px;
+	display: block;
+}
+.chattime-you{
+	color: black;
+	margin-left: 10px;
+	display: block;
+}
+.msg:after {
+	border:solid 10px transparent;
+	border-right-color:#000;
+	position:absolute;
+	margin:-50px 0 0 -20px;
+	right: -10px;
+
+@media screen and (max-height: 320px) {
+	.room {
+		height: 180px;
+	}
+}

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href='https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons' rel="stylesheet">
+	<link href="https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.min.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+
+	<link rel="stylesheet" type="text/css" href="{{url_for('static', filename='style.css')}}">
+	<title>BOT</title>
+</head>
+<body>
+	<div id="app">
+		<v-app>
+	      <v-content>
+	      	<v-flex xs12 sm6 offset-sm3>
+	      		<!-- <div class="header">
+		      		<span>BOT</span>
+		      	</div> -->
+		      	<v-card>
+		        <v-toolbar color="green" dark>
+		          <!-- <v-toolbar-side-icon></v-toolbar-side-icon> -->
+		          <v-toolbar-title>BOT</v-toolbar-title>
+		          <v-spacer></v-spacer>
+		          <!-- <v-btn icon>
+		            <v-icon>search</v-icon>
+		          </v-btn> -->
+		        </v-toolbar>
+		        <div class="room">
+		        	<div v-for="c in chat" style="display: block; overflow: auto;">
+		        		<div class="msg">
+			      			<span :class="(c.type === 'you')? 'you': 'me'">${c.content}</span>
+			      			<!-- <span class="arrow-me"></span> -->		      	
+			      		</div>
+			      		<div v-if="c.type === 'me'" class="chattime-me">${c.time | formatDate}</div>
+			      		<div v-if="c.type === 'you'" class="chattime-you">${c.time | formatDate}</div>
+		        	</div>
+		      	</div>
+		      	<div class="foot">
+		      		<div class="inputbox">
+		      			<v-flex>
+				          <v-text-field
+				          style="max-width: 100%; max-height: 65px; min-height: 65px; background-color: #eeeeee"
+				          textarea
+							rows="1"
+				          solo
+				          label="Type a message here..."
+				          v-model="box"
+				        ></v-text-field>
+				        </v-flex>
+		      		</div>
+		      		<div class="btninput">
+		      			<v-btn @click="pushchat" :disabled="(box === null || box == '')? true: false" fab dark color="green">
+					      <v-icon dark>send</v-icon>
+					    </v-btn>
+		      		</div>    		
+		      	</div>
+		      </v-card>
+	      	</v-flex>	      	
+	      </v-content>
+	    </v-app>
+	</div>
+</body>
+</html>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vuetify/dist/vuetify.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.18.0/axios.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+<script type="text/javascript">
+	Vue.filter('formatDate', function(value) {
+	  if (value) {
+	    return moment(String(value)).format('hh:mm:ss A')
+	  }
+	});
+	new Vue({
+		delimiters:['${', '}'],
+		el: '#app',
+		data: {
+			chat: [
+				{
+					type: 'you',
+					content: 'Selamat datang di layanan bot kami, tanyakan apa saja kita akan menjawab',
+					time: new Date().toString()
+				}
+			],
+			box: null
+		},
+		methods: {
+			pushchat () {
+				this.chat.push({
+					type: 'me',
+					content: this.box,
+					time: new Date().toString()
+				})
+				this.getresponse(this.box)
+				this.box = null				
+			},
+			getresponse (contents) {
+				axios.post('/chat', {
+					msg: contents
+				})
+				.then((res)=> {
+					self = this
+					setTimeout(function(){ 
+						self.chat.push({
+							type: 'you',
+							content: res.data,
+							time: new Date().toString()
+						})
+					}, 3000);
+				})
+			}
+		}
+	})
+</script>

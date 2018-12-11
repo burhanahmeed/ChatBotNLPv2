@@ -1,0 +1,4 @@
+ngrok http -host-header="localhost:5000" 5000
+
+set FLASK_APP=hello.py 
+flask run

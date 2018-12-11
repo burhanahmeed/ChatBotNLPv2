@@ -1,0 +1,821 @@
+penanda;message;tag_gamal;tag_sept;tag_ombur;tag_final
+marker;start;;;;
+Pembeli;Misi gan,hp Oppo F1 ready?;stok;sapaan;sapaan, stok;stok
+Penjual;ready kak, mau yang warna apa?;;;;
+Pembeli;yang silver metallic ada gan?;stok;stok;stok;stok
+Penjual;Ada kak, apakah sekalian beli case nya?;;;;
+Pembeli;Iya gan;;penutup;penutup;penutup
+Penjual;silakan order saja kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;halo sis, Iphone X yang refubished jual gak?;stok;sapaan;stok;stok
+Penjual;Ada gan, mau yang warna apa;;;;
+Pembeli;harga berapa gan;harga;harga;harga;harga
+Penjual;5 jt pas gan tidak bisa nego;;;;
+Pembeli;wah itu bukan dari black market kan;produk;produk;produk;produk
+Penjual;kita langsung ambil dari pabriknya gan;;;;
+Pembeli;oke gan terimakasih;;penutup;penutup;penutup
+Penjual;siap;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;misi gan, xiaomi redmi 5A ready?;stok;sapaan;stok;stok
+Penjual;Semua produk yang kami jual ready semua;;;;
+Pembeli;baiklah kalau begitu saya pesan satu;;;penutup;penutup
+Penjual;mau warna apa gan?;;;;
+Pembeli;golden, ready stock kan?;stok;warna;stok;stok
+Penjual;ready gan, silakan dipesan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;gan, barangnya ready ngga?;stok;sapaan;stok;stok
+Penjual;ready sist;;;;
+Pembeli;ini kalo saya beli yang warna putih ada kan?;stok;warna;stok, warna;stok
+Penjual;ada kok sist, tenang saja;;;;
+Pembeli;ini ngirimnya lewat apa gan?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;go send bisa, JNE bisa, J&T juga bisa;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;gan oppo yang terbaru yang tipe apa;produk;produk;produk;produk
+Penjual;OPPO F1;;;;
+Pembeli;ready itu?;stok;stok;stok;stok
+Penjual;kebetulan stoknya kosong kak maaf, banyak yang nyari soalnya;;;;
+Pembeli;Kira-kira berapa lama ya restocknya?;stok;stok;stok;stok
+Penjual;Tunggu saja seminggu lagi kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;gan, oppo F1 masih available?;stok;stok;stok;stok
+Penjual;wah maaf sist stok kosong;;;;
+Pembeli;kok tidak diupdate stoknya;stok;stok;stok;stok
+Penjual;maaf yang input data ngantuk;;;;
+Pembeli;Apakah ada alternatif lain yang sebanding?;produk;produk;produk;produk
+Penjual;Ada sist, Iphone X;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;misi min, hp vivo nya available?;produk;produk;stok;stok
+Penjual;masih kok gan;;;;
+Pembeli;ada garansinya kan?;garansi;garansi;garansi;garansi
+Penjual;ada kok;;;;
+Pembeli;untuk pilihan warna yang tersedia apa saja?;warna;stok;warna;warna
+Penjual;hitam, putih, pink, dan silver;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;malam min,hp smartfren yang sudah 4G ready?;stok;stok;stok;stok
+Penjual;ready kok kak, mau yang warna apa?;;;;
+Pembeli;Saya mau yang warna silver ada?;stok;stok;stok;stok
+Penjual;Tentu saja ada kak;;;;
+Pembeli;dikirim via GoJek bisa;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;selama masih satu kota bisa kok;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;halo min, hp Iphone X masih?;stok;sapaan;stok;stok
+Penjual;stocknya tinggal 1 gan, buruan order;;;;
+Pembeli;dikirim dari mana min?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;batam;;;;
+Pembeli;Dari batam? itu copycat, atau replika?;produk;produk;produk;produk
+Penjual;meskipun dari batam, produk yang kami jual asli kok;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;malem min, ini promonya termasuk pelindung layar, earphone sama tongsis ngga?;promo;sapaan;promo;promo
+Penjual;promo yang dimaksud termasuk pelindung layar, charger, dan kartu perdana. untuk earphone dan tongsis beli sendiri;;;;
+Pembeli;kalau begitu adakah promo beli tongsis gratis earphone?;promo;promo;promo;promo
+Penjual;sayangnya tidak ada gan;;;;
+Pembeli;kalau begitu saya beli tongsis saja min;;;penutup;penutup
+Penjual;silakan diorder gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;siang min, stok masih?;stok;sapaan;stok;stok
+Penjual;masih kok gan;;;;
+Pembeli;harganya ngga boleh kurang?;harga;harga;harga;harga
+Penjual;kalo lebih sih boleh gan saya ikhlas;;;;
+Pembeli;Kalau begitu pas nya berapa?;harga;harga;harga;harga
+Penjual;Sesuai yang tertera di produknya aja ya;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;sore menjelang malam min, masih jualan hp?;;sapaan;sapaan;sapaan
+Penjual;tentu saja masih gan, silakan mau nanya apa?;;;;
+Pembeli;ini kok harganya murah sekali? yang bener nih Iphone X cuma satu juta?;harga;harga;harga;harga
+Penjual;oh maaf gan, saya ngantuk. harusnya 10 juta;;;;
+Pembeli;Yasudahlah saya beli satu yang warna putih;;;penutup;penutup
+Penjual;Siap gan;;;;
+marker;end;;;;
+marker;start;;;;stok
+Pembeli;misi min, apakah disini jual hp nokia 3310?;stok;sapaan;stok;
+Penjual;kalau produk baru sih sudah gak produksi lagi kak, kebanyakan sih sudah hp bekas;;;;
+Pembeli;gapapa deh min hp bekas juga tidak masalah bagi saya;;;penutup;penutup
+Penjual;Siap kak, mau pesan yang warna apa kak?;;;;
+Pembeli;Yang standarnya saja deh min, tidak usah yang aneh aneh;;;penutup;penutup
+Penjual;siap kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;pagi min, hp esia hidayah masih ada ngga?;stok;sapaan;stok;stok
+Penjual;kalo hp yang itu sudah tidak produksi lagi kak;;;;
+Pembeli;kalau hp evercross ada;stok;stok;stok;stok
+Penjual;stoknya banyak kak kalo yang itu;;;;
+Pembeli;warnanya apa aja min?;warna;warna;warna;warna
+Penjual;ada hitam, silver, jingga, juga putih;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;misi min, hp saya boleh ditukar tambah sama hp lain ngga?;produk;produk;produk;produk
+Penjual;memang hpnya apa kak?;;;;
+Pembeli;nokia 3310 android oreo;;;;
+Penjual;wah kalo hp limited edition seperti itu bisa ditukar sama 5 hp iphone 9;;;;
+Pembeli;yang benar saja nih min?;;;;
+Penjual;iya kak, saya lagi pengen koleksi hape tersebut;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;malem min, kok pesanan saya belum dianter anter juga?;pengiriman;sapaan;pengiriman;pengiriman
+Penjual;silakan bayar dulu kak, baru nanti saya kirim ke alamat kakak;;;;
+Pembeli;oiya min lupa, besok pagi saya transferin;;;pengiriman;pengiriman
+Penjual;siap kak;;;;
+Pembeli;Jangan lupa kirim ke alamat sesuai aplikasi ya min?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;Siap kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;misi min, hp iphone X ready stock gan?;stok;sapaan;stok;stok
+Penjual;semua warna ready stock gan, buruan order secepatnya;;;;
+Pembeli;memangnya kenapa min?;;;;
+Penjual;hari senin harganya naik 50 ribu;;;;
+Pembeli;Bukannya turun min?;harga;harga;harga;harga
+Penjual;Pengennya sih gitu gan, hanya saja dolar naik;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Garansi ada? warna yang tersedia apa aja?;garansi;garansi;garansi;garansi
+Penjual;Ada garansi dari kami selama 1 tahun sis;;;;
+Pembeli;Untuk pilihan warna ada apa aja?;warna;warna;warna;warna
+Penjual;bisa hitam, putih, pink, sama silver sis;;;;
+Pembeli;Kalau yang ungu apakah tidak ada?;stok;stok;stok;stok
+Penjual;maaf sis stoknya kosong;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Saya milih yang golden gan. Masih ada segelnya? bisa dikirim pakai GRAB?;pengiriman;produk;pengiriman;produk
+Penjual;Masih tersegel. Bisa dikirim dengan GRAB namun lokasi belum tentu dijangkau GRAB;;;;
+Pembeli;Gan, bisa kirim lewat JNE?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;Bisa sis;;;;
+Pembeli;Oke terimakasih Gan;;penutup;penutup;penutup
+Penjual;Sama-sama sis, terimakasih telah memesan di lapak kami;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Gan, kok resinya gak bisa dicek?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;Cek aja langsung di websitenya JNE, mungkin sistemnya sedang bermasalah;;;;
+Pembeli;Sudah gan, tapi kok belum terkirim ya?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;Bayar dulu kak, baru kami akan kirimkan ke alamat kakak;;;;
+Pembeli;o iya ya saya lupa transfer tadi sore, makasih sudah diingatkan;;penutup;penutup;penutup
+Penjual;sama sama kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;min pesen xiaomi redmi 5A ready atau tidak?;stok;stok;stok;stok
+Penjual;ready kok kak, mau pesen yang warna apa?;;;;
+Pembeli;kalau yang warna silver masih?;stok;stok, warna;stok;stok
+Penjual;mohon maaf kak, kalau yang silver stoknya habis;;;;
+Pembeli;yasudah saya beli yang putih aja sekalian;;penutup;penutup;penutup
+Penjual;siap kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Gan konfirmasi pembayaran sekarang apa barang bisa langsung dikirim hari ini?;pengiriman;pengiriman;;pengiriman
+Penjual;sangat bisa gan;;;;
+Pembeli;tapi saya nanti baru bisa transfer malem, bagaimana gan?;pembayaran;pembayaran;;pembayaran
+Penjual;Wah maaf gan kalau begitu, soalnya kami membatasi jam operasional sampai jam 7 malam;;;;
+Pembeli;gapapa deh gan kalau begitu;;penutup;penutup;penutup
+Penjual;tapi tenang saja kok gan, kami akan kirim besok jam 7 pagi;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Gan barang masih ada?;stok;stok;stok;stok
+Penjual;"Untuk tipe ini kosong kak, kami rekomendasikan ambil OPPO a83 di jamin lebih bagus, layar full screen 5 7"", dijamin pilihan yang bagus";;;;
+Pembeli;Oke gan, nanti minta tambahan aksesoris ya;promo;promo;promo;promo
+Penjual;Jangan lupa tulis keterangan saat order kak, takut kelupaan lagi.;;;;
+Pembeli;untuk antigores sama tongsis masih tersedia kan gan?;promo;promo;promo;promo
+Penjual;masih kak, silakan tulis pada keterangan order;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Gan ini kalo stok kosong kenapa gak dihapus aja?;stok;stok;;stok
+Penjual;iya maaf kak, minggu depan sudah ready stock lagi kok;;;;
+Pembeli;oh, saya kira sudah tidak jualan yang ini lagi;;;;
+Penjual;Kalau kami sudah tidak jualan suatu produk maka kami hapus gan, tapi kalau stoknya kosong ya emang masih kosong;;;;
+Pembeli;terimakasih infonya gan, saya tunggu minggu depan;;penutup;penutup;penutup
+Penjual;maaf atas ketidaknyamanannya kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Besok bisa Gojek gan?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;Kalau boleh tahu alamat kakak dimana ya?;;;;
+Pembeli;Saya tinggal di gunung anyar rungkut gan, bisa kan?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;Bisa kak, untuk pengiriman kami lakukan hari senin ya kak;;;;
+Pembeli;Oke gan;;penutup;penutup;penutup
+Penjual;Silahkan diorder;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Jaminan gak ya? Temen saya beli terus langsung disuruh masuk service center. Gak bisa ganti unit... :(;garansi;garansi;;garansi
+Penjual;kita ga buka segel sama sekali gan, untuk produk manufaktur kadang pasti ada cacat pabrik. untuk barang kita jamin baru dan garansi resmi :);;;;
+Pembeli;untuk produk Asus Zenfone apakah ada garansi resminya?;garansi;garansi;garansi;garansi
+Penjual;tentu saja ada gan;;;;
+Pembeli;Bener ya gan;;penutup;penutup;penutup
+Penjual;Monggo diorder saja gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Misi gan, Case untuk hp Redmi Note 6 ready kan gan?;stok;stok;stok;stok
+Penjual;Tentu saja ready gan, silakan pilih warnanya;;;;
+Pembeli;Warna hitam yang pertama sama yang ketiga apa bedanya? ready ga warna hitam yang ketiga? yang pola carbon gitu;warna;warna;warna;warna
+Penjual;karbon blm keluar gan;;;;
+Pembeli;oh gitu, izin minta tolong notif saya gan kalau agan sudah jual yang pola carbon;;penutup;penutup;penutup
+Penjual;siap gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;red ready?;stok;stok;stok;stok
+Penjual;Apanya yang ready kak?;;;;
+Pembeli;Hp merek vivonya ada?;stok;stok;stok;stok
+Penjual;besok dikabarin kak, soalnya sekarang sudah malam dan gaada yang ngecek stoknya;;;;
+Pembeli;ok ane tunggu kabarnya besok, thanks;;penutup;penutup;penutup
+Penjual;Mohon maaf atas ketidaknyamanannya;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Untuk HP zenfone 2 apakah ready?;stok;stok;stok;stok
+Penjual;silakan pilih warnanya gan, ada hitam, putih, sama silver;;;;
+Pembeli;saya beli yang warna silver saja;;warna;warna;warna
+Penjual;Ready order gan;;;;
+Pembeli;dapet bonus gak gan?;promo;promo;promo;promo
+Penjual;belum dapet gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Misi min, hp Redmi Note 6 apakah ready?;stok;sapaan;stok;stok
+Penjual;Untuk Redmi note 6 barangnya ready semua;;;;
+Pembeli;ini rom global apa china ya ?;produk;produk;promo;promo
+Penjual;global kak, mau pesan yang warna apa?;;;;
+Pembeli;Kalau warna silver ada kan?;stok;stok;stok;stok
+Penjual;tentu saja ada kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ready warna apa ya;warna;warna;stok;stok
+Penjual;Black aja gan;;;;
+Pembeli;harga ga bisa kurang lg om. kemarin baru ambil a6;harga;harga;harga;harga
+Penjual;Cuma ambil 10rb aja om;;;;
+Pembeli;ok nanti saya order ya;;penutup;penutup;penutup
+Penjual;Siap ditunggu gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;hp Zenfone 2 yang black ready gan?;stok;stok;stok;stok
+Penjual;untuk yang varian black masih tersedia kak;;;;
+Pembeli;Apakah ada promo bonus antigores sama case nya?;promo;promo;promo;promo
+Penjual;Untuk antigores mohon maaf kak stoknya sudah habis;;;;
+Pembeli;Kalau yang case?;promo;promo;stok;stok
+Penjual;Untuk case silakan pilih sesuai yang ada di katalog case kami;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Hp redmi note 6 nya apakah ready?;stok;stok;stok;stok
+Penjual;ready kak, silakah pilih warna yang kakak inginkan;;;;
+Pembeli;yang silver ada atau tidak gan?;stok;stok;stok;stok
+Penjual;untuk yang silver stoknya masih ada, mau pakai antigores sekalian;;;;
+Pembeli;iya gan, sama sekalian case nya yang kode 1005026 kalau ada;;produk;;produk
+Penjual;masih ada kok kak, tenang saja;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;garansi resmi samsung sein bos ?;garansi;garansi;garansi;garansi
+Penjual;di jamin garamsi resmi sein;;;;
+Pembeli;Bisa dikirim lewat gosend atau tidak?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;bisa kok;;;;
+Pembeli;Tolong di proses kirim ya bosku warna gold, gosend sekarang. mau pulang kampung malam ini,......trims;;pengiriman;;pengiriman
+Penjual;sedang di proses mohon ditunggu;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Iphone X saya kameranya pecah pak garansi masih ada;;garansi;garansi;garansi
+Penjual;toko kita ga menerima garansi;;;;
+Pembeli;kalau begitu saya harus kemana?;garansi;garansi;;garansi
+Penjual;silakan bawa ponsel anda ke service center yang resmi saja;;;;
+Pembeli;waduh;;penutup;penutup;penutup
+Penjual;Maaf ya gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;pelindung layar Oppo ada kak;stok;stok;stok;stok
+Penjual;tipe apa;;;;
+Pembeli;A105;;produk;;penutup
+Penjual;Tinggal satu kak bole dipesan, apakah tidak sekalian case hpnya?;;;;
+Pembeli;kebetulan case saya masih bagus kak;;;;
+Penjual;Baiklah kalau begitu;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;HP symbian bekas berapa gan;harga;harga;harga;harga
+Penjual;250k kalo di saya;;;;
+Pembeli;bisa nego gak;harga;harga;harga;harga
+Penjual;gak bisa gan udah pas itu;;;;
+Pembeli;200k saja deh kalau begitu;;harga;;harga
+Penjual;yasudah baiklah 200k saya lepas;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;andromax ready gan;stok;stok;stok;stok
+Penjual;siap gan, mau pilih yang warna apa?;;;;
+Pembeli;putih aja ada ngga?;stok;stok;stok;stok
+Penjual;ada kok;;;;
+Pembeli;bisa langsung kirim ya;;pengiriman;pengiriman;pengiriman
+Penjual;bisa;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;TV buat android ada gan;stok;stok;stok;stok
+Penjual;ada;;;;
+Pembeli;ada bonus gak?;promo;promo;promo;promo
+Penjual;beli 2 gratis 1 gan;;;;
+Pembeli;apakah ada promo yang lain?;promo;promo;promo;promo
+Penjual;maaf, promo yang berlaku hanya itu saja;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ini dual simcard ya, kalau untuk 4g pakai kartu lain bisa?;produk;produk;produk;produk
+Penjual;Iya dual simcard, sim 2 bisa diganti kartu lain :);;;;
+Pembeli;bisa buat untuk 4g di sim 2, tanpa ada sim 1 smartfen;;produk;;produk
+Penjual;Harus ada sim 1 nya kak :);;;;
+Pembeli;apakah ada bonus kartu sd sekalian?;promo;promo;promo;promo
+Penjual;sayangnya tidak ada kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;sim 2 nya bisa 5g gak;produk;produk;produk;promo
+Penjual;belom bisa;;;;
+Pembeli;kalo sim 1;;;produk;produk
+Penjual;baru 3g yang sim 1;;;;
+Pembeli;apakah ada hp lain yang support 4G?;produk;produk;produk;produk
+Penjual;silakan cek katalog kami;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;kirim lewat mana gan;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;POS JNE JNT;;;;
+Pembeli;murah mana;harga;harga;harga;harga
+Penjual;murah COD gan wkwkw;;;;
+Pembeli;Kalau COD di daerah mana ya?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;Kalau ingin COD bisa di daerah waru;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;COD bisa gan;pembayaran;pembayaran;pengiriman;pengiriman
+Penjual;bisa, daerah mana;;;;
+Pembeli;daerah ITS;;;;
+Penjual;kalau COD di unair A apakah bisa;;;;
+Pembeli;bisa kok, jam berapa COD nya?;pembayaran;pembayaran;pengiriman;pembayaran
+Penjual;Jam 4 sore;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;charger Meizu ada?;stok;stok;stok;stok
+Penjual;banyak, mau beli yang 2 ampere atau yang 3 ampere;;;;
+Pembeli;bedanya apa ya?;;;;
+Penjual;semakin tinggi amperenya biasanya lebih cepat proses pengisiannya;;;;
+Pembeli;kalau begitu saya pilih yang 3 ampere;;penutup;penutup;penutup
+Penjual;siap pak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;malem gan, hp redmi note 6 sama nokia 3310 bagusan yang mana?;produk;produk;produk;produk
+Penjual;tergantung dari apanya dulu kak;;;;
+Pembeli;saya nyari hp yang bisa tahan lama;;produk;produk;produk
+Penjual;kalau begitu saya rekomendasikan nokia 3310 saja kak;;;;
+Pembeli;Kalau saya beli 2 apakah dapat diskon?;promo;promo;promo;promo
+Penjual;Untuk pembelian 2 buah dan lebih, kakak bisa dapat cashback 15 persen;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;malem min, kok belum sampai kerumah saya ya hpnya?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;silakan kakak cek dulu di ekspedisinya;;;;
+Pembeli;kok dari seminggu yang lalu barangnya masih di jakarta aja;;;;
+Penjual;wah kalau itu saya kurang tau kak, mungkin bisa tanya ke pihak ekspedisinya;;;;
+Pembeli;terimakasih infonya min;;penutup;penutup;penutup
+Penjual;sama sama kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;pagi min, kok dari kemarin barangnya belum dikirim juga?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;mohon maaf kak, kemarin jasa ekspedisinya tutup dikarenakan hari libur;;;;
+Pembeli;kalau dikirim sekarang sudah bisa dong?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;tetap masih belum bisa kak, soalnya gantian kami yang meliburkan diri;;;;
+Pembeli;kalau begitu kapan buka?;;;;
+Penjual;hari senin kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;siang min, hp samsung edisi terbaru sudah keluar?;produk;produk;stok;produk
+Penjual;masih belum kak, silakan tunggu bulan depan atau beli hp yang lain;;;;
+Pembeli;kalau begitu hp politron apakah masih ready?;stok;stok;stok;stok
+Penjual;sayangnya kami kehabisan stoknya kak;;;;
+Pembeli;Kalau begitu yang ready hp apa?;produk;produk;stok;produk
+Penjual;Esia hidayah kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;malam gan, hp saya tidak sengaja di root oleh teman saya, apakah masih menerima garansi;garansi;garansi;garansi;garansi
+Penjual;maaf kak, tindakan yang teman kakak lakukan telah membatalkan garansi yang ada.;;;;
+Pembeli;kalau saya unroot masih bisa mendapatkan kembali garansi yang hilang;garansi;garansi;garansi;garansi
+Penjual;tetap saja tidak bisa kak, maaf;;;;
+Pembeli;terimakasih infonya gan;;penutup;penutup;pentutup
+Penjual;sama sama kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ganti layar habis berapa gan;harga;harga;harga;harga
+Penjual;tergantung parahnya;;;;
+Pembeli;lumayan parah sih;;;;
+Penjual;memangnya seperti apa?;;;;
+Pembeli;ini hp saya layarnya pecah dan juga tidak menyala;;;;
+Penjual;500k bisa mungkin gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;saya mau beli Iphone bisa gan?;stok;stok;stok;stok
+Penjual;bisa bisa tipe berapa;;;;
+Pembeli;iphone 6s, kira kira berapaan ya?;harga;harga;harga;harga
+Penjual;3,5jt ya gan no nego;;;;
+Pembeli;apakah bonus tongsis;promo;promo;promo;promo
+Penjual;sayangnya tidak ada kak, kalau mau bisa beli terpisah;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;hai min, apakah stok untuk iPhone X masih tersedia.;stok;stok;stok;stok
+Penjual;untuk HP tersebut penjualannya memang yang paling laris kak, jadi kalau kakak tidak segera order maka barangnya diambil orang lain.;;;;
+Pembeli;Kalau boleh tahu yang masih tersedia yang warna apa aja min?;stok, warna;warna;stok;stok
+Penjual;Untuk saat ini, yang masiha tersedia hanya warna hitam dan putih saja.;;;;
+Pembeli;UNtuk harga sudah tidak bisa berubah lagi ya min?;harga;harga;harga;harga
+Penjual;Iya kak, harga segitu sudah ditentukan sama pusat;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;pagi min, apakah barang yang dijual memiliki garansi?;garansi;garansi;garansi;garansi
+Penjual;pagi juga kak, untuk smartphone yang kami jual dijamin memiiki garansi resmi dari produsennya;;;;
+Pembeli;Kalau misal smartphone yang saya beli saya custom operating systemnya apakah garansi masih berlaku?;garansi;garansi;produk;garansi
+Penjual;Jika kakak melakukan perubahan tersebut, maka secara otomatis garansinya hilang kak;;;;
+Pembeli;terimakasih min atas infonya;;penutup;penutup;penutup
+Penjual;iya kak sama sama;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;min, untuk smartphone yang saya pilih ini spesifikasi perangkat kerasnya seperti apa?;produk;produk;produk;produk
+Penjual;untuk smartphone xiaomi mi 6x punya ram 4 giga, penyimpanan 64 giga, dengan prosesor snapdragon;;;;
+Pembeli;apakah jika untuk bermain PUBG mobile smartphone tersebut kuat?;produk;produk;produk;produk
+Penjual;tentu saja kuat kak jika spesifikasi yang seperti itu untuk bermain PUBG;;;;
+Pembeli;Saya pesan yang warnanya silver ada kan;warna;stok;stok;stok
+Penjual;ada kak, silakan diorder;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ini hp vivonya ready kan?;stok;stok;stok;stok
+Penjual;ready kok;;;;
+Pembeli;ready warna apa gan?;warna;warna;stok;warna
+Penjual;Sisa black gan;;;;
+Pembeli;barang segel new? bukan display?;produk;produk;produk;produk
+Penjual;New segel gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Grey nya ready?;warna;warna;stok;warna
+Penjual;sisa black gan;;;;
+Pembeli;yasudah saya beli yang black;;produk;;
+Penjual;siap gan;;;;
+Pembeli;Apakah ada promo?;promo;promo;promo;promo
+Penjual;Ada, beli satu dapatnya satu;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;siang Agan...;Sapaan;Sapaan;sapaan;sapaan
+Penjual;Siang kak, ada yang bisa kami bantu?;;;;
+Pembeli;minta tolong dikirim siang ini ya..;;pengiriman;pengiriman;pengiriman
+Penjual;Oke gan, dikirimnya kealamat mana ya?;;;;
+Pembeli;sesuai aplikasi saja ya gan;;;;
+Penjual;siap kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;gan hitam masih ready. bisa langsung kirim hr ini. pake instan kurir.;Stok;stok;stok;stok
+Penjual;Ready gan Bisa gan instant;;;;
+Pembeli;ini A8Plus 2018 kan;produk;produk;promo;produk
+Penjual;Iya gan;;;;
+Pembeli;ok bentar saya tf do;;;pembayaran;
+Penjual;Siap ditunggu gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ready yg warna biru ga ya? utk kiriman keluar kota packingan aman ga?;stok;stok;stok;stok
+Penjual;Sisa warna hitam gan, Aman donk gan;;;;
+Pembeli;itu harga beneran segitu? kondisi baru apa second?;harga, produk;harga;harga;harga
+Penjual;Baru segel grs resmi gan;;;;
+Pembeli;ok, pengiriman ke bali one day service bisa ya gan via jne;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;Bisa gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;HP Oppo F6 ready kan?;stok;stok;stok;stok
+Penjual;ready kok kak, silakan pilih warnanya;;;;
+Pembeli;gan ready ungu??;warna;warna;warna;warna
+Penjual;ready red dan biru kak;;;;
+Pembeli;urgent untuk pacar saya gan, dia maunya yang ungu;warna;stok;warna;warna
+Penjual;maaf kosong ya kak, silakan cek lapak yang lain;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;syarat untuk cicilan apa aja ya??;pembayaran;pembayaran;pembayaran;pembayaran
+Penjual;pembayaran melalui kartu kredit dan bisaa ajuin credivo;;;;
+Pembeli;untuk cicilannya sendiri jangka waktunya berapa?;pembayaran;pembayaran;pembayaran;pembayaran
+Penjual;bisa 6 bulan, 12 bulan, atau 15 bulan, terserah anda;;;;
+Pembeli;Kira kira pakai jaminan atau tidak ya?;pembayaran;pembayaran;pembayaran;pembayaran
+Penjual;Tidak ada;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Bisa kredit gan? Cicilan.;pembayaran;pembayaran;pembayaran;pembayaran
+Penjual;bisa ya gan ...;;;;
+Pembeli;kira kira bisa dicicil lewat apa saja?;pembayaran;pembayaran;pembayaran;pembayaran
+Penjual;kami melayani cicilan melalui platform shopback;;;;
+Pembeli;caranya bagaimana?;;;;
+Penjual;silakan install aplikasi shopback dan ikuti prosedur yang ada;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Ini hp vivonya ready atau tidak?;stok;stok;stok;stok
+Penjual;ready kak silakan pilih warnanya;;;;
+Pembeli;kalau warna merah apakah ada?;warna;warna;warna;warna
+Penjual;wah maap kak yang warna merah sudah sold;;;;
+Pembeli;kalau yang putih?;warna;warna;stok;warna
+Penjual;masih tersedia kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ready black dan bonus speaker bluetooth?;promo, stok, warna;stock;produk, promo, stok;stok
+Penjual;ready kak, bonus headset bluetooth ya;;;;
+Pembeli;bonusnya masih lengkap gak? (Tongsis, iring hp, softcase, gurita hp, waterproof, anti gores, headset bluetooth);promo;promo;promo;promo
+Penjual;lengkap ya..;;;;
+Pembeli;ok thanks infonya, insya Allah entar malam aku order gan;penutup;penutup;penutup;penutup
+Penjual;oke. trims;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;selamat malam min....;Sapaan;Sapaan;sapaan;sapaan
+Penjual;selamat malam kak, ada yang bisa kami bantu?;;;;
+Pembeli;apakah hp vivonya ready?;stok;stok;stok;stok
+Penjual;ready kak;;;;
+Pembeli;bonus masih ada ya? itu klo hrs buka segel, bs di wraping ulang kah? ready black?;warna, promo;warna;stok;warna
+Penjual;bonuss lengkap ya iya wraping ulang dan rapi ya.. ready kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;broo barang masih ada sesuai yg di pajang, sesuai yg di iklan warna apa aja yg ada;stok;stok;stok;stok
+Penjual;sesuai kak,, lengkap ya;;;;
+Pembeli;ada warna apa broo, jika ada warna silver atau abu abu;warna;warna;;warna
+Penjual;merah dan hitam ya;;;;
+Pembeli;hitam satu, itu klo instan apa.broo klo pakai grab;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;siap... trims;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Misi min, apakah masih jual hp LG?;stok;stok;stok;stok
+Penjual;kebetulan masih ada stok beberapa buah kak, mau pesan yang mana?;;;;
+Pembeli;Untuk hp yang punya OS oreo masih?;produk;produk;stok;produk
+Penjual;masih kak, silakan order saja;;;;
+Pembeli;tersedia warna apa gan?;warna;warna;warna;warna
+Penjual;ready black dan red ya, besok siap kirim gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Apakah hp Redmi Note 5 masih ready?;stok;stok;stok;stok
+Penjual;ready bos, silakan pilih mau warna yang mana;;;;
+Pembeli;hitam ready?bisa go send?;warna, pengiriman;pengiriman;stok;pengiriman
+Penjual;kosong bos, hanya ad tam yg hitam;;;;
+Pembeli;Ready warna apa ajah??;warna;warna;warna;warna
+Penjual;untuk distri redy gold dan rose dengan harga yang berbeda2 gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Siang min, hp Redmi note 6 ready?;stok;stok;stok;stok
+Penjual;ready kak, mau yang warna apa? tapi yang warna hitam masih menunggu restock;;;;
+Pembeli;Merah muda ready? Klo hitam kpn ready?;warna;stok;stok;stok
+Penjual;ready kak. kalo yang hitam sih masih menunggu kiriman dari supplier;;;;
+Pembeli;gapapa deh yang hitam saja nanti saya tunggu;;warna;;
+Penjual;siap kak, nanti akan kami infokan lebih lanjut jika sudah ready;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;gan, untuk hp evercoss nya apakah ready?;stok;stok;stok;stok
+Penjual;untuk hp evercoss ready semua gan kecuali yang hitam;;;;
+Pembeli;hitam kapan ready gan ?;stok;stok;warna;stok
+Penjual;blm tau gan yg black, hny ad gold n rose gan;;;;
+Pembeli;pantau dulu gan.. masih ngidam item hehe;;penutup;;
+Penjual;siap gan, thanks ya;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Misi min, disini jualan hp redmi note 7 kan?;stok;stok;stok;stok
+Penjual;iya gan;;;;
+Pembeli;Ready ? Rom global ? Playstore bisa indonesia ?;produk;produk;produk;produk
+Penjual;ready gan rom global distributor;;;;
+Pembeli;bisa beli antigores sama case nya sekalian kan?;promo;promo;promo;promo
+Penjual;Tentu saja bisa gan, silakan diorder;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Ini yg Redmi Note 5 Pro asli India, ato Redmi Note 5 AI Dual Camera asli China gan?;produk;produk;stok;produk
+Penjual;ini note 5 kamera ai gan;;;;
+Pembeli;Bagusnya kalau kameranya ada AI nya apa ya?;produk;produk;produk;produk
+Penjual;Kalau ada AI nya, hasil foto yang dibuat menjadi lebih jelas;;;;
+Pembeli;Kalau begitu saya pesan satu ya?;harga;;harga;harga
+Penjual;siap gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ready warna apa aja;warna;warna;warna;warna
+Penjual;ready gold dan rosegold dengan harga beda2 gan;;;;
+Pembeli;yg sesuai postingan harganya;harga;harga;harga;harga
+Penjual;itu warna gold gan ,untuk gold 2085,rosegold 2065 gan;;;;
+Pembeli;bisa sekalian dipasang antogoresnya kan?;promo;promo;promo;promo
+Penjual;bisa kok, hanya saja harganya terpisah dari harga hp;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ada led notif nya ga gan;produk;produk;produk;produk
+Penjual;sesuai dekripsi gan;;;;
+Pembeli;warna hitam kosong ya?;stok;stok;stok;stok
+Penjual;ready gold gan beda warna beda harga;;;;
+Pembeli;kira-kira yang hitam ready nya kapan;stok;stok;stok;stok
+Penjual;tunggu info lebih lanjut saja gan :);;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Misi gan, hp Oppo neo 7 ready?;stok;stok;stok;stok
+Penjual;ready gan, mau yang warna apa?;;;;
+Pembeli;emangnya yang ready warna apa saja bosku?;warna;warna;warna;warna
+Penjual;putih, silver metalik, sama hitam;;;;
+Pembeli;kalau yang ungu apakah ada?;stok;stok;stok;stok
+Penjual;dari pabriknya emang gaada yang ungu;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Siang min, hp Redmi note 6 ready stock?;stok;stok;stok;stok
+Penjual;ready gan, mau yang apa?;;;;
+Pembeli;ini ada garansi resminya kan?;garansi;garansi;garansi;garansi
+Penjual;iya gan, kami hanya menjual produk dengan garansi resmi dari produsen;;;;
+Pembeli;ini pake rom global kan?;produk;produk;produk;produk
+Penjual;iya gan, tenang saja. bahasanya ada inggris sama indonesia kok;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Min, kira kira Redmi Note 4 sama samsung galaxy J7 prime bagusan yang mana ya?;produk;produk;produk;produk
+Penjual;Tergantung mau dilihat dari segi apanya dulu kak;;;;
+Pembeli;Kalau ram nya bagusan yang mana?;produk;produk;produk;produk
+Penjual;Tentu Redmi note 4 kak, soalnya satu giga lebih banyak;;;;
+Pembeli;kalau penyimpanan internalnya bagaimana?;produk;produk;produk;produk
+Penjual;untuk galaxy J7 prime hanya 32 giga, sementara redmi note 4 ada yang 64 giga;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Misi min, apakah benar promo beli hp dapat cashback 15%?;promo;promo;promo;promo
+Penjual;Iya benar kak, syaratnya harus beli hp beserta antigores dan case nya;;;;
+Pembeli;apakah promo ini berlaku untuk iphone X?;produk;promo;promo;promo
+Penjual;iya kak, promo cashback ini berlaku untuk semua hp dengan maksimal cashback 500 ribu;;;;
+Pembeli;baiklah, terimakasih atas infonya min;penutup;penutup;penutup;penutup
+Penjual;sama sama kak, selamat berbelanja :);;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;min, hp asus sama xiaomi bagusan yang mana ya?;produk;produk;produk;produk
+Penjual;tergantung kakak melihatnya dari apanya;;;;
+Pembeli;kalau dari layanan purna jual nya bagusan mana?;garansi;garansi;garansi;garansi
+Penjual;tentu bagus an asus, karena sudah ada lebih dahulu;;;;
+Pembeli;kalau dari harganya?;harga;harga;harga;harga
+Penjual;tentu lebih murah xiaomi karena dengan harga yang sama sudah dapat spek yang lebih tinggi;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;ready hitam, udah pernah coba OTG masuk nggak?;produk;produk;produk;produk
+Penjual;Ready gan silakan diorder, bisa OTG kok;;;;
+Pembeli;apakah bisa dipasang sd card?;produk;produk;produk;produk
+Penjual;bisa gan;;;;
+Pembeli;dual sim kan?;produk;produk;produk;produk
+Penjual;tentu saja;;;;
+Pembeli;yasudah saya order ya;;penutup;penutup;penutup
+Penjual;siap gan;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Misi gan, apakah hp Redmi Note 5 ready?;stok;stok;stok;stok
+Penjual;Ready kok gan, emangnya mau yang warna apa?;;;;
+Pembeli;Gold ada tidak gan? kok di pilihan warna gabisa ya?;warna;warna;warna;warna
+Penjual;kosong sementara gan;;;;
+Pembeli;kalau yang silver apakah ada?;warna;warna;warna;warna
+Penjual;untuk yang silver ada kok gan;;;;
+Pembeli;oke saya pesan satu;;penutup;penutup;penutup
+Penjual;terimakasih, selamat berbelanja;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Misi gan, hp lenovonya masih?;stok;stok;stok;stok
+Penjual;masih kok kak, mau yang mana nih?;;;;
+Pembeli;kalau lenovo vibe shot bagaimana?;stok;stok;stok;stok
+Penjual;masih ada 3 stoknya, buruan diorder gan;;;;
+Pembeli;untuk pilihan warnanya apa saja ya?;warna;warna;warna;warna
+Penjual;yang tersedia warna hitam, merah, dan silver;;;;
+Pembeli;apakah ada promo gratis ongkir?;promo;promo;promo;promo
+Penjual;kalau pake JNE ada;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;siang min, apakah hp esia hidayah nya masih ada?;stok;stok;stok;stok
+Penjual;untuk hp tersebut stoknya masih banyak;;;;
+Pembeli;kalau boleh tahu, warna yang tersedia apa saja?;warna;stok;warna;warna
+Penjual;untuk warna yang tersdia ada hitam, merah dan hijau;;;;
+Pembeli;apakah hp ini bisa membantu saya dalam mengingat waktu sholat;produk;produk;produk;produk
+Penjual;tentu saja bisa, karena itu memang salah satu keunggulan yang ditawarkan pada produk itu;;;;
+Pembeli;apakah terdapat layanan purna jual?;garansi;garansi;garansi;garansi
+Penjual;tentu saja ada;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Selamat malam min, apakah benar disini jualan hp Xiaomi;sapaan;produk;sapaan;sapaan
+Penjual;Ada kak, tipe hp yang seperti apa yang kakak butuhkan?;;;;
+Pembeli;saya butuh yang bisa untuk bermain PUBG serta mobil lejen;produk;produk;produk;produk
+Penjual;Kalau cuman untuk main sih sebenarnya mulai dari redmi seri 3 sudah bisa;;;;
+Pembeli;kalau semisal budget saya 2,5 juta kira kira yang paling bagus apa ya?;harga;produk;produk;produk
+Penjual;kalau budget sebanyak itu sih bisa dibuat beli redmi note 5;;;;
+Pembeli;baiklah kalau begitu saya pilih yang itu saja;;penutup;penutup;penutup
+Penjual;siap kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;selamat siang min, untuk smartphone yang saya beli apa saja varian warna yang tersedia?;warna;warna;;warna
+Penjual;siang kak, untuk smartphone yang kakak beli, tersedia pilihan warna putih dan gold. Kakak mau yang mana?;;;;
+Pembeli;kalau untuk warna hitam apakah tidak ada min?;stok;stok;stok;stok
+Penjual;mohon maaf kak, untuk varian warna hitam sudah habis;;;;
+Pembeli;yasudah kalau begitu saya order yang warna gold saja;penutup;penutup;penutup;penutup
+Penjual;terimakasih kak, silakan tambahkan keterangan tersebut pada kolom detail produk;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;Permisi min, apakah redmi 6x nya ready?;stok;stok;stok;stok
+Penjual;mohon maaf kak, untuk sementara ini stoknya kosong. Mungkin kami bisa rekomendasikan redmi note 6 nya kak;;;;
+Pembeli;wah saya pengennya yang redmi 6x min;;produk;produk;produk
+Penjual;oh maaf kalau begitu, nanti akan kami beritahu secepatnya jika smartphone yang kakak inginkan sudah tersedia kembali;;;;
+Pembeli;kira kira berapa lama ya min?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;ya mungkin sekitar semingu lagi baru ready stock;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;sore min, apakah smartphone redmi 6A ready?;stok;stok;stok;stok
+Penjual;ready kak, silakan order saja;;;;
+Pembeli;apakah produk tersebut memiliki garansi?;garansi;garansi;garansi;garansi
+Penjual;tentu aja ada kak, untuk redmi 6A kami ada garansi dari TAM;;;;
+Pembeli;nanti kalau misal ada kerusakan bisa diperbaiki di mana ya?;garansi;garansi;garansi;garansi
+Penjual;silakan bawa ke tempat kami saja juga bisa kok;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;permisi min, kok smartphone yang saya beli belum ada kemajuan proses pengirimannya ya min?;pengiriman;pengiriman;;pengiriman
+Penjual;mohon maaf sebelumnya kak, jam operasional kami hanya sampai pukul lima sore, jadi apabila ada yang order diatas jam tersebut maka kami baru mengirimkan esok harinya pukul 10;;;;
+Pembeli;oh jadi begitu, saya kira pesanan saya tidak dilayani.;pengiriman;pengiriman;;pengiriman
+Penjual;mohon maaf kak atas ketidaknyamanannya. Tapi sekarang ini pesanan kakak sudah kamu tangani baru saja masuk ke kurir;;;;
+Pembeli;oke siap min;;penutup;penutup;penutup
+Penjual;iya kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;permisi min, apakah saya boleh mengganti pilihan warna yang saya pilih pada pesanan saya?;warna;warna;;warna
+Penjual;memangnya kakak inginnya warna apa?;;;;
+Pembeli;Jadi begini min, saya tadi inginnya warna putih, tapi salah pencet jadi hitam dan saya baru sadar sewaktu ingin membayarnya;;warna;;
+Penjual;Jika kakak belum melakukan pembayaran, pesanan kakak bisa di cancel dulu saja lalu pesan kembali sesuai yang kakak inginkan;;;;
+Pembeli;boleh seperti itu min?;;;;
+Penjual;boleh kok kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;sore min, bisa tolong jelaskan promo yang berlaku ini?;promo;promo;promo;promo
+Penjual;Jadi gini kak, untuk setiap pembelian smartphone apapun mereknya akan diberi bonus antigores;;;;
+Pembeli;Apakah ada ketentuan lain min?;promo;promo;;promo
+Penjual;bonus antigores jika stok antigoresnya masih tersedia;;;;
+Pembeli;terimakasih atas penjelasannya min;penutup;penutup;penutup;penutup
+Penjual;sama sama kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;min, apakah pesanan saya masuk? padahal sudah saya bayar tapi kok tulisannya telah dicancel?;pengiriman;pengiriman;pengiriman;pengiriman
+Penjual;mungkin itu kesalahan dari sistemnya kak;;;;
+Pembeli;apakah uang saya kembali;harga;harga;harga;harga
+Penjual;seharusnya sih kembali kak, tunggu saja beberapa waktu.;;;;
+Pembeli;terus, pesanan saya bagaimana?;pengiriman;pengiriman;;pengiriman
+Penjual;silakan kakak pesan ulang saja;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;misi min, apakah promo beli smartphone bonus SD card masih ada?;promo;promo;promo;promo
+Penjual;maaf kak, untuk promo trsebut sudah tidak berlaku lagi sejak minggu kemarin;;;;
+Pembeli;apakah ada promo yang lain min?;promo;promo;promo;promo
+Penjual;untuk promo yang sedang berlaku saat ini yaitu promo bonus antigores;;;;
+Pembeli;yasudah saya order ya min?;penutup;penutup;penutup;penutup
+Penjual;silakan order melalui aplikasi ya kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;misi min, apakah smartphone yang saya pesan tersedia?;stok;stok;stok;stok
+Penjual;tentu saja tersedia kak;;;;
+Pembeli;kalau untuk garansi yang digunakan kalau boleh tahu garansi apa ya?;garansi;garansi;garansi;garansi
+Penjual;untuk yang kakak pesan ini ada garansi resmi dari TAM;;;;
+Pembeli;terimakasih atas infonya min;penutup;penutup;penutup;penutup
+Penjual;sama sama kak, selamat berbelanja;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;pagi min, apakah smartphone yang saya pesan ready?;stok;stok;;stok
+Penjual;tentu saja ready kak, silakan order saja;;;;
+Pembeli;untuk pengirimannya yang tersedia pakai apa saja ya min?;pengiriman;pengiriman;;pengiriman
+Penjual;kami bisa mengirimkannya melalui berbagai jasa kurir kak, tapi biasanya pakai JNE dan J&T;;;;
+Pembeli;kalau begitu pakai J&T saja min, soalnya didaerah saya hanya ada itu;pengiriman;pengiriman;;pengiriman
+Penjual;siap kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;siang min, apakah smartphone yang saya pesan memiliki garansi?;garansi;garansi;;garansi
+Penjual;siang kak, tentu saja ada garansi yang berlaku;;;;
+Pembeli;kalau boleh tahu garansinya apa min?;garansi;garansi;;garansi
+Penjual;untuk smartphone redmi note 6, kami memakai garansi resmi dari TAM;;;;
+Pembeli;kira kira masa berlakunya sampai kapan ya?;garansi;garansi;;garansi
+Penjual;untuk garansi TAM biasanya berlaku selama satu tahun;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;min, smartphone redmi note 6 yang saya pesan ramnya ada berapa?;produk;produk;;produk
+Penjual;untuk yang kakak pesan ini ramnya 3 giga;;;;
+Pembeli;kalau yang 4 giga apakah masih ada min?;produk;stok;;produk
+Penjual;masih ada kok kak, silakan ganti detail pemesanan kakak;;;;
+Pembeli;terimakasih min;penutup;penutup;;penutup
+Penjual;sama sama;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;permisi min, apakah promo beli smartphone bonus hard case masih berlaku?;promo;promo;;promo
+Penjual;tentu saja masih kak;;;;
+Pembeli;apakah saya bisa memilih bonus case dari promo yang berlaku saat ini?;promo;promo;;promo
+Penjual;tentu saja boleh kak, namun hanya terbatas pada tiga model case yang ditentukan;;;;
+Pembeli;kalau begitu saya pilih case yang kedua saja min;penutup;penutup;;penutup
+Penjual;siap kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;permisi min, saya mau tanya tentang promo cashback;promo;promo;;promo
+Penjual;silakan kak, apkah ada yang kakak masih bingungkan dari promo ini?;;;;
+Pembeli;Jadi gini min, apakah promo tersebut berlaku jika saya memesan lebih dari satu barang?;promo;promo;;promo
+Penjual;bisa kak, namun ada batas maksimal cashback yaitu sebesar Rp500.000;;;;
+Pembeli;terimakasih atas infonya min;penutup;penutup;;penutup
+Penjual;sama sama kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;siang min, apakah pesanan saya bisa dikirimkan melalui Go-Send?;pengiriman;pengiriman;;pengiriman
+Penjual;siang kak, tentu saja bisa kak. Namun, perlu diperhatikan bahwa lokasi kakak tidak berbeda kota dengan kami;;;;
+Pembeli;Emang tokonya ada dimana min?;pengiriman;pengiriman;;pengiriman
+Penjual;Kami berada di kota Surabaya kak;;;;
+Pembeli;Kalau begitu bisa dong?;;;;
+Penjual;bisa kak;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;min, ini iPhone X nya kalau saya pakai buat bikin vlog bagus ngga ya kameranya?;produk;produk;;produk
+Penjual;tentu saja bagus kak, malah lebih bagus dari yang lain;;;;
+Pembeli;kalau untuk kapasitas memorinya berapa ya min?;produk;produk;;produk
+Penjual;yang tersedia saat ini yang memiliki kapasitas penyimpanan sebesar 64 giga, jadi anda tidak perlu khawatir kehabisan penyimpanan;;;;
+Pembeli;baiklah kalau begitu saya pesan satu;penutup;penutup;;penutup
+Penjual;terimakasih kak, selamat berbelanja lagi;;;;
+marker;end;;;;
+marker;start;;;;
+Pembeli;min, diskon 25% ini berlaku untuk semua produk atau hanya produk tertentu saja?;promo;promo;;promo
+Penjual;untuk produk apa saja yang dapat diskon 25%, bisa kakak lihat pada gambar produk.;;;;
+Pembeli;memangnya apa min yang jadi pembedanya?;produk;promo;;promo
+Penjual;untuk smartphone yang ada diskonnya terdapat sticker diskon pada kiri atas foto produk;;;;
+Pembeli;terimakasih atas penjelasannya min;penutup;penutup;;penutup
+Penjual;sama sama kak, selamat berbelanja;;;;
+marker;end;;;;
